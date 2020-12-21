@@ -1,6 +1,28 @@
-# Getting Started with Create React App
+![Image of React Markdown Previewer Project](https://i.postimg.cc/NFbFYcBV/React-Quote-Generator.png)
+# React Markdown Previewer
+> This is a very small project created with the purpose of learning the fundamentals of React.js starting from a simple [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🎯 About ##
+
+I've started this project with the idea of reworking one of the ending projects of the Front End Libraries Certification (300 hours) of [FreeCodeCamp](https://www.freecodecamp.org/learn).
+I have structured the project with two small React components and I have styled it with a little bit of custom SASS.
+You can write or paste you code/text inside the left textarea and the markdown will be previewed in the right panel.
+I have used a library ([Marked.js](https://marked.js.org/)) in order to parse the markdown and let it be available for the app to be previewed.
+
+### Demo
+Here's the [demo link](https://react-markdown-prev.netlify.app/).
+
+## :sparkles: Features ##
+
+:heavy_check_mark: Responsive site<br/>
+:heavy_check_mark: React Hooks<br/>
+:heavy_check_mark: Markdown parsing
+
+## :rocket: Technologies ##
+
+- [React](https://reactjs.org/)
+- [SASS/SCSS](https://sass-lang.com/)
+- [Marked.js](https://marked.js.org/)
 
 ## Available Scripts
 
