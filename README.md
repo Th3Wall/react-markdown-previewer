@@ -1,4 +1,3 @@
-![Image of React Markdown Previewer Project](https://i.postimg.cc/NFbFYcBV/React-Quote-Generator.png)
 # React Markdown Previewer
 > This is a very small project created with the purpose of learning the fundamentals of React.js starting from a simple [Create React App](https://github.com/facebook/create-react-app).
 
