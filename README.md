@@ -22,6 +22,20 @@ Here's the [demo link](https://react-markdown-prev.netlify.app/).
 - [React](https://reactjs.org/)
 - [SASS/SCSS](https://sass-lang.com/)
 - [Marked.js](https://marked.js.org/)
+- [Netlify - Responsible for the deploy (have a look below)](https://www.netlify.com/)
+
+## Netlify deploy & configuration
+
+> The site is developed with some specific https://netlify.com apis.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/518e8e71-ed66-46b5-a401-efb407638368/deploy-status)](https://app.netlify.com/sites/react-markdown-prev/deploys)
+
+### Deploy configuration steps
+
+1. Connect your GitHub account to Netlify
+3. Select the project
+2. In Settings → Build & Deploy → Set **Build command** to : **_npm run build_**
+3. In Settings → Build & Deploy → Set **Publish directory** to : **_build_**
 
 ## Available Scripts
 
