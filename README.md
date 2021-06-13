@@ -8,7 +8,7 @@ I have structured the project with two small React components and I have styled 
 You can write or paste you code/text inside the left textarea and the markdown will be previewed in the right panel.
 I have used a library ([Marked.js](https://marked.js.org/)) in order to parse the markdown and let it be available for the app to be previewed.
 
-### Demo
+## ▶️ Demo
 Here's the [demo link](https://react-markdown-prev.netlify.app/).
 
 ## :sparkles: Features ##
