@@ -9,13 +9,16 @@ You can write or paste you code/text inside the left textarea and the markdown w
 I have used a library ([Marked.js](https://marked.js.org/)) in order to parse the markdown and let it be available for the app to be previewed.
 
 ## ▶️ Demo
-Here's the [demo link](https://react-markdown-prev.netlify.app/).
+
+Here you can find the demo link:
+
+- [Netlify](https://react-markdown-prev.netlify.app/)
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Responsive site<br/>
-:heavy_check_mark: React Hooks<br/>
-:heavy_check_mark: Markdown parsing
+:heavy_check_mark: &nbsp;Responsive site<br/>
+:heavy_check_mark: &nbsp;React Hooks<br/>
+:heavy_check_mark: &nbsp;Markdown parsing
 
 ## :rocket: Technologies ##
 
